@@ -1,4 +1,4 @@
-# Exercice #2
+# Solution de l'exercice #2, Tristan Lapointe
 
-Code de départ de l'exercice #2 du cours 582-4PA.
+Exercice #2 du cours 582-4PA.
 Intégration de **Firebase** et des données **Firestore** dans l'exercice de classe *Panier d'achats*.
